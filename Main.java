@@ -541,7 +541,7 @@ class BankLedger {
 /*
  * Main class
  */
-public class Main {
+public class Console {
 
     static Scanner scanner = new Scanner(System.in);
 
